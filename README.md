@@ -1,2 +1,1 @@
-main.c
-a.out
+# Alx printf
